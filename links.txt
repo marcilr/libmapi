@@ -1,0 +1,20 @@
+links.txt
+Created Tue Aug 22 10:00:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+libmapi related links
+
+
+Links
+=====
+OpenChange Project beta
+Microsoft Exchange compatible server and client libraries
+Has links to:
+  libmapi-0.8.2          2009-03-12
+  libmapi-0.8-ROMULUS    2009-01-20
+  libmapi-0.7 PHASER     2008-04-03
+  libmapi-0.6 HOLODECK   2007-10-31
+  libmapi-0.4 WARP       2007-06-01
+  libmapi-0.2 MAILOOK    2007-04-22
+https://sourceforge.net/projects/openchange/files/libmapi/
