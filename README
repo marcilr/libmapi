@@ -3,6 +3,20 @@ Created Tue Aug 22 09:59:35 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+"The OpenChange MAPI library aims to provide interoperability with an
+Open Source implementation of Microsoft Exchange protocols under UNIX/Linux.
+The current implementation offers a client-side library which can be used in
+existing messaging clients and offer native compatibility with Exchange Servers
+up to 2007.
+
+MAPI stands for Messaging Application Programming Interface and is used in the
+Microsoft Exchange Server groupware server. This solution works with Outlook
+and provides collaborative features such as a messaging server, shared
+calendars, contact databases, public folders and tasks."
+
+--freshports.org
+
+
 Filelist
 ========
 libmapi.txt
@@ -10,3 +24,11 @@ libmapi.txt
 
 links.txt
   libmapi related links
+
+
+Links
+=====
+libmapi Open Source implementation of Microsoft Exchange protocols
+Fresh ports
+Has ice description of OpenChange MAPI libarary used above.
+https://www.freshports.org/mail/libmapi/
