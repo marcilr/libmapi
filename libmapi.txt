@@ -1,0 +1,9 @@
+libmapi.txt
+Created Tue Aug 22 09:58:46 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+libmapi
+
+
+Provides interoperability with Microsoft Exchange
